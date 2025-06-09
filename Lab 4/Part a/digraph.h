@@ -59,7 +59,7 @@ private:
      */
     mutable std::vector<int> dist;
     mutable std::vector<int> path;
-    mutable std::vector<bool> done;  // just used in Dijktra’s algorithm
+    mutable std::vector<bool> done;  // just used in Dijktraâ€™s algorithm
 
     // -- Private CONSTRUCTOR
     explicit Digraph(int n);
