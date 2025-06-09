@@ -1,6 +1,7 @@
 # TND004 - Data Structures Labs
-Welcome to the lab assignments for TND004 - Data Structures. This repository contains a series of hands-on
-programming tasks designed to deepen your understanding of fundamental data structures and their applications.
+These are lab assignments completed as part of the course TND004 – Data Structures at Linköping University.
+This repository contains a series of hands-on programming tasks designed to deepen the understanding of 
+fundamental data structures and their applications.
 
 ## 📁 Structure
 Each lab has it´s own directory and they contain:
@@ -18,7 +19,7 @@ Each lab has it´s own directory and they contain:
 
 - CMake (optional, for building larger projects)
 
-##📚 Topics Covered
+## 📚 Topics Covered
 The labs cover key data structure concepts including:
 
 - Linked Lists
