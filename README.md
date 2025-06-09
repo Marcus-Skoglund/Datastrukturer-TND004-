@@ -4,7 +4,7 @@ This repository contains a series of hands-on programming tasks designed to deep
 fundamental data structures and their applications.
 
 ## 📁 Structure
-Each lab has it´s own directory and they contain:
+Each lab has its own directory and they contain:
 
 - main.cpp – Starter or driver code.
 
