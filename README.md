@@ -1,7 +1,7 @@
 # TND004 - Data Structures Labs
 These are lab assignments completed as part of the course TND004 – Data Structures at Linköping University.
 This repository contains a series of hands-on programming tasks designed to deepen the understanding of 
-fundamental data structures and their applications.
+fundamental data structures and their applications. 
 
 ## 📁 Structure
 Each lab has its own directory and they contain:
